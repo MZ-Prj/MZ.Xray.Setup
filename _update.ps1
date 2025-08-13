@@ -8,8 +8,8 @@ $title = "Xray Setup v1.0.0"
 # 릴리스 설명     
 $notes = "Initial release of Xray Setup"       
 # 업로드할 데이터 파일 (상대 경로)
-$filePath1 = "Datas\AppSetup.msi"               
-$filePath2 = "Datas\ProducerSetup.msi"              
+$filePath1 = "AppSetup.msi"               
+$filePath2 = "ProducerSetup.msi"              
 # ========================
 
 # 현재 스크립트 디렉토리 기준으로 절대 경로 만들기
